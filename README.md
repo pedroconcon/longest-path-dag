@@ -12,7 +12,17 @@ crítico de um dígrafo é o caminho mais longo do dígrafo. O programa deverá 
 seus pesos a partir de um arquivo. O programa deverá apresentar o caminho crítico e seu tamanho.
 ##
 
+#WORK DATA STRUCTURE 2
 
+-Student: Pedro Eduardo Concón Silva
+
+-Professor: Marcelo Keese Albertini
+
+Theme: Critical path detection. Write a program to find the critical path of an acyclic digraph with
+weighted edges and calculate the length of the critical path. Critical path of a digraph is the longest 
+path of the digraph. The program must read the list of edges and their weights from a file. The program 
+must present the critical path and its size.
+##
 
 
 
