@@ -1,8 +1,4 @@
 #TRABALHO ESTRUTURA DE DADOS 2
-
--Aluno: Pedro Eduardo Concon Silva
-
--Professor: Marcelo Keese Albertini
 ##
 
 Tema:
@@ -13,10 +9,6 @@ seus pesos a partir de um arquivo. O programa deverá apresentar o caminho crít
 ##
 
 #WORK DATA STRUCTURE 2
-
--Student: Pedro Eduardo Concón Silva
-
--Professor: Marcelo Keese Albertini
 
 Theme: Critical path detection. Write a program to find the critical path of an acyclic digraph with
 weighted edges and calculate the length of the critical path. Critical path of a digraph is the longest 
